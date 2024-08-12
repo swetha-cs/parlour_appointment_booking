@@ -1,0 +1,145 @@
+body{
+    margin: 0%;
+}
+.Homepage{
+    background-image:url("wallpaper.jpg");
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+.topnav {
+    /* background-color: rgb(221, 87, 114); */
+    border: black;
+    overflow: hidden;
+    margin: 0%;
+    width: 100%;
+    /* width: 1190px;
+    height: 70; */
+}
+
+.topnav a {
+    float: right;
+    color: #ffffff;
+    margin: 10px;
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+
+    color: rgb(8, 8, 8);
+  }  
+.title{
+    margin:20px ;
+    padding-top: 90px;
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.zyra{
+    padding: 80px;
+    padding-left:180px; 
+    padding-bottom: 30px;
+    right: 40rem;
+    color: black;
+}
+.booking{
+    color: black;
+}
+/* style for login page */
+#login{
+    background-color: #fcbbdab0;
+    padding: 5% 0%;
+}
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 7px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#register{
+    padding-left: 60px;
+}
+
+/* #btn{  
+    color: rgb(0, 0, 0);  
+    background: #fcbbda;  
+    padding: 10px;  
+    margin-left: 80%;  
+}  
+#btn:hover{
+    background-color:#fc4481;
+} */
+    /* style for service page */
+
+#service_page{
+    padding: 7% 5%;
+    margin-left: 5%;
+}
+img{
+    width: 80%;
+    border-radius: 5%;
+}
+h6{
+    text-align:left;
+    padding:10% 20%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+    /* about page */
+
+h2{
+    padding-bottom: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    line-height: 2rem;
+    color: rgba(88, 88, 88, 0.829);
+}
+i{
+    padding-right:3%;
+}
+#about{
+    padding: 7% 5%;
+    margin-left: 5%;
+}
+#bussiness-hours{
+    padding-left: 20rem;
+}
+#footer{
+    padding-top: 7%;
+    padding-left: 40%;
+    }
+    /* appoinment_page */
+#appointment{
+    padding: 5% 0%;
+}
+#form{
+        border: solid gray 1px;  
+        width:65%;  
+        border-radius: 7px;  
+        margin: 40px auto;  
+        background: white;  
+        padding: 30px;  
+}
+#heading{
+    
+    text-align: center;
+    background-color: #4e4c4dea;
+    color: #ffffff;
+    padding-bottom: 3.5%;
+    
+}
+.app{
+    color:rgb(88, 88, 88);
+}
+#button{
+    margin-top: 78px;
+}
